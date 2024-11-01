@@ -1,26 +1,18 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'ismailsalimahmed.alriyami@etu.inp-n7.fr',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://github.com/alrismail',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/alrismail',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/alrismail/',
     },
   ],
 
@@ -44,7 +36,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    green: '#00a6fb',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
